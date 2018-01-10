@@ -1,0 +1,22 @@
+{
+  "name": "alexaworld-nodejs-common",
+  "version": "1.0.1",
+  "description": "Helper for node and javascript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexaWorld/nodejs-common.git"
+  },
+  "author": "Peter Ullrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexaWorld/nodejs-common/issues"
+  },
+  "homepage": "https://github.com/AlexaWorld/nodejs-common#readme"
+}
