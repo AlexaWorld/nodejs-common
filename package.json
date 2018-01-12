@@ -1,6 +1,6 @@
 {
   "name": "alexaworld-nodejs-common",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Helper for node and javascript",
   "main": "src/index.js",
   "directories": {
